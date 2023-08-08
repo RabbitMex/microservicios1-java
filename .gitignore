@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Archivos no necesarios creados por la herramienta
+.metadata/
+springboot-servicio-item/.gitignore
+springboot-servicio-item/.mvn/
+springboot-servicio-item/mvnw
+springboot-servicio-item/src/test/
+springboot-servicio-productos/.gitignore
+springboot-servicio-productos/.mvn/
+springboot-servicio-productos/mvnw
+springboot-servicio-productos/src/test/
